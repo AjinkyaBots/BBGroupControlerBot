@@ -1,10 +1,10 @@
-## BBGroupControlerBot
+### BBGroupControlerBot
 Bot :- [@BBGroupControlerBot](https://t.me/BBGroupControlerBot)
 
-# What it is?
+#### What it is?
 A simple group controler bot made up in Bots.Business app
 
-# How to import bot to Bots.Business? 
+##### How to import bot to Bots.Business? 
 1. Create New Bot
 2. Add Bot token in BB
 3. Launch the Bot
