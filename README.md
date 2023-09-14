@@ -20,4 +20,4 @@ Link : https://github.com/AjinkyaBots/BBGroupControlerBot
 
 ![](https://www.linkpicture.com/q/IMG_20230222_215854_340.jpg)
 
-Contact :- https://t.me/coderajinkya) 
+Contact :- [@coderajinkya](https://t.me/coderajinkya)
