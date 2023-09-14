@@ -18,6 +18,6 @@ Link : https://github.com/AjinkyaBots/BBGroupControlerBot
 
 ## Coder Ajinkya :
 
-![][(Coder Ajinkya](https://t.me/buyedByajinkya/5571)
+![Coder Ajinkya](https://t.me/buyedByajinkya/5571)
 
 [Contact Coder Ajinkya](https://t.me/coderajinkya) 
